@@ -15,7 +15,7 @@ The analysis provided here gives a general overview of the Airbnb market in Seat
 
 This repository contains a Jupyter notebook `Seattle_Airbnb_analysis.ipynb` to showcase the work related to the above questions. 
 
-* Please view it via nbviewer at [here](https://nbviewer.jupyter.org/github/w-guo/Seattle-Airbnb-analysis/blob/main/Seattle_Airbnb_analysis.ipynb). The interactive graphs in the notebook are unable to display as any `.ipynb` file in a GitHub repository will be rendered as a static HTML file.
+* Please view it via nbviewer at [here](https://nbviewer.jupyter.org/github/w-guo/Seattle-Airbnb-analysis/blob/2fbf64cfd8f869df41f91d1bc9ee5f2e1fafc33d/Seattle_Airbnb_analysis.ipynb). The interactive graphs in the notebook are unable to display as any `.ipynb` file in a GitHub repository will be rendered as a static HTML file.
   
 The dataset used here includes the following files that can be downloaded from [Inside Airbnb](http://insideairbnb.com/get-the-data.html):
 
