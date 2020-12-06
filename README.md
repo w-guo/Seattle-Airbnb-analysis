@@ -4,10 +4,8 @@
 
 * Location impact on Seattle Airbnb market
     - Where are the listings located and what are the average prices of these listings by neighbourhood?
-
 * Advice for tourists 
     - What is the availability of the accommodations and what is the price trend in the near future?
-
 * Insights for hosts
     - What do tourists like about their accommodations and what do they usually complain about if they had a bad experience?
 
