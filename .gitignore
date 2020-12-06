@@ -1,3 +1,5 @@
 
 *.csv
 *.geojson
+*.ipynb
+.DS_Store
