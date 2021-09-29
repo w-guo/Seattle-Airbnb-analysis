@@ -1,6 +1,6 @@
 # Seattle Airbnb Analysis
 
- This project focuses on exploring key insights of Seattle Airbnb market from the perspectives of interactive data visualization and text mining. Given the lastest Seattle Airbnb data, we are motivated to answer the following business questions from three aspects:
+ This project focuses on exploring key insights of Seattle Airbnb market from the perspectives of interactive data visualization and text mining. Given the lastest Seattle Airbnb data, we seek to answer the following business questions from three aspects:
 
 * Location impact on Seattle Airbnb market
     - Where are the listings located and what are the average prices of these listings by neighbourhood?
